@@ -1,3 +1,16 @@
+## 2017-11-13 update.
+
+由于原仓库已删除，导致 linux 无法直接通过原命令行安装，现已修复失效的 url 。
+
+linux 用户可执行以下命令进行安装
+
+
+```bash
+curl -L https://git.io/vFrij | bash
+```
+
+---
+
 # MEOW Proxy
 
 当前版本：1.5 [CHANGELOG](CHANGELOG.md)
